@@ -6,7 +6,7 @@ y = [2,4,5,7,6,8,9,11,12,12]
 
 
 plt.scatter(x,y, label="stars",color="black",
-            markers="*", s=30)
+            marker="*", s=30)
 
 plt.xlabel('x - axis')
 
